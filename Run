@@ -1,4 +1,4 @@
 #!/bin/bash
-./tg -s bot.lua
-
-
+while(true) do
+./tg -s ./cli.lua
+done
