@@ -1,4 +1,4 @@
 #!/bin/bash
 while(true) do
-./Run 
+./TG -s ./RUN.lua 
 done
