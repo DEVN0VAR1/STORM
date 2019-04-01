@@ -1,8 +1,0 @@
-#!/bin/bash
-
-while(true) do
-
-./TG -s ./cliT.lua
-
-done
-
